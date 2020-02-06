@@ -11,30 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Civil Engineering, York University, 2023 (expected)
+* M.A.Sc. in Civil Engineering, York University, 2019
+* B.Eng.-C. in Water Resources Engineering, University of Guelph, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* City of Ottawa
+* Water Resources Engineering Intern (2016)
+  * Updated citywide watercourse and infrastructure mapping based on hydrological simulations.
+  * Wrote Python scripts to automate repetitive tasks, conduct QA/QC, and clean datasets.
+  * Drafted detailed maps and retrieved spatial statistics upon request.
+  * Recorded pressure differentials between hydrants throughout the city’s water distribution system in order to calculate system losses.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dalhousie University Centre for Water Resources
+* Undergraduate Research Assistant (2015)
+ * Assisted in the research of lead release within drinking water systems due to galvanic corrosion caused by partial lead service line replacement.
+ * Wrote literature reviews as requested by graduate students.
+ * Collected and analyzed water samples for trace metal concentrations on the order of 1 ng/L.
+
+* XCG Consultants Ltd.
+* Environmental Science and Site Assessment Intern (2015)
+ * Conducted phase one and two environmental site assessments, assisting in field work, data analysis, and completing written reports for clients.
+ * Created templates in Excel to interpret laboratory results and flag exceedances based on a variety of different standards for soil and water quality.
+ * Generated site maps in AutoCAD that identify monitoring locations, groundwater flow patterns, and potentially contaminated areas.
+
+* Viqua, Trojan Technologies
+* Research and Development Engineering Intern (2014)
+ * Standardized components across different UV disinfection products to reduce manufacturing costs.
+ * Improved test lab productivity by restructuring the lab’s organizational system, developing standardized testing apparatuses, and coordinating lab use with other departments.
+ * Carried out a wide variety product tests including failure analysis, electrical testing, thermal testing, UV sensor response, pressure testing, and accelerated life testing.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Proficiency
+ * ArcGIS
+ * Microsoft Office
+ * AutoCAD
+ * SWMM5
+* Programming Languages
+  * MATLAB
+  * Python
+  * R
+  * SQL
+  * VBA
+  * LaTeX
 
 Publications
 ======
@@ -54,6 +75,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
