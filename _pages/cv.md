@@ -17,26 +17,26 @@ Education
 
 Work experience
 ======
-__City of Ottawa__
+__City of Ottawa__\
 _Water Resources Engineering Intern (2016)_
 * Updated citywide watercourse and infrastructure mapping based on hydrological simulations.
 * Wrote Python scripts to automate repetitive tasks, conduct QA/QC, and clean datasets.
 * Drafted detailed maps and retrieved spatial statistics upon request.
 * Recorded pressure differentials between hydrants throughout the city’s water distribution system in order to calculate system losses.
 
-__Dalhousie University Centre for Water Resources__
+__Dalhousie University Centre for Water Resources__\
 _Undergraduate Research Assistant (2015)_
 * Assisted in the research of lead release within drinking water systems due to galvanic corrosion caused by partial lead service line replacement.
 * Wrote literature reviews as requested by graduate students.
 * Collected and analyzed water samples for trace metal concentrations on the order of 1 ng/L.
 
-__XCG Consultants Ltd.__
+__XCG Consultants Ltd.__\
 _Environmental Science and Site Assessment Intern (2015)_
 * Conducted phase one and two environmental site assessments, assisting in field work, data analysis, and completing written reports for clients.
 * Created templates in Excel to interpret laboratory results and flag exceedances based on a variety of different standards for soil and water quality.
 * Generated site maps in AutoCAD that identify monitoring locations, groundwater flow patterns, and potentially contaminated areas.
 
-__Viqua, Trojan Technologies__
+__Viqua, Trojan Technologies__\
 _Research and Development Engineering Intern (2014)_
 * Standardized components across different UV disinfection products to reduce manufacturing costs.
 * Improved test lab productivity by restructuring the lab’s organizational system, developing standardized testing apparatuses, and coordinating lab use with other departments.
