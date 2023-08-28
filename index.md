@@ -5,6 +5,10 @@ An h1 header
 <iframe src="hysets.html" height="500" width="500"></iframe>
 
 
+<p><a href="gallery.md">gallry</a></p>
+
+<p><a href="median_annual.html">plot</a></p>
+
 Paragraphs are separated by a blank line.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
