@@ -9,7 +9,7 @@ ok
 ok
 
 
-<p><a href="gallery.md">gallry</a></p>
+<p><a href="gallery.html">gallry</a></p>
 
 <p><a href="median_annual.html">plot</a></p>
 
